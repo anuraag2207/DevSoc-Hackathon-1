@@ -3,11 +3,8 @@ A Simple E-commerce Website
 Table Of Contents
 
 * [About](#about)
-* 
 * [How to use](#how-to-use)
-* 
 * [Contributors](#contributors)
-* 
 * [License](#license)
 
 ## About
