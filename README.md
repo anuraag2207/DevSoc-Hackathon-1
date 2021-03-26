@@ -2,10 +2,13 @@
 A Simple E-commerce Website
 Table Of Contents
 
-*[About](#about)
-*[How to use](#how-to-use)
-*[Contributors](#contributors)
-*[License](#license)
+* [About](#about)
+* 
+* [How to use](#how-to-use)
+* 
+* [Contributors](#contributors)
+* 
+* [License](#license)
 
 ## About
 This website is a prototype of an E-commerce website.It allows you to have a look at a wide range of products with their current market prices.The website is still under 
@@ -18,9 +21,9 @@ You can also Login to our website to save your details.The footer allows you to 
 within the website.
 
 ## Contributors
-*Anuraag Wange
-*Pranav Ruparel
-*Prakhar Garg
+* Anuraag Wange
+* Pranav Ruparel
+* Prakhar Garg
 
 ## License
 © X-Retail 2021
