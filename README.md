@@ -1,4 +1,4 @@
-# X-Retail
+# Hackshop
 A Simple E-commerce Website
 Table Of Contents
 
@@ -23,4 +23,4 @@ within the website.
 * Prakhar Garg
 
 ## License
-© X-Retail 2021
+© Hackshop 2021
