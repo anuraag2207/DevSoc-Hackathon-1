@@ -1,4 +1,4 @@
-# Hackshop
+# Hackshopp
 A Simple E-commerce Website
 Table Of Contents
 
@@ -23,4 +23,7 @@ within the website.
 * Prakhar Garg
 
 ## License
-© Hackshop 2021
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### Copyright
+© Hackshopp 2021
